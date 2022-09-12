@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("  ДЗ 1 Задание 1");
+        System.out.println("  ДЗ  № 1 Задание 1");
         System.out.println( );
         int saccumulation = 29000;
         double total = 0;
@@ -12,7 +12,7 @@ public class Main {
         }
         System.out.println( );
 
-        System.out.println(" ДЗ 1 Задание 2");
+        System.out.println(" ДЗ  № 1 Задание 2");
         System.out.println( );
         int start = 0;
         while (start < 10) {
@@ -27,7 +27,7 @@ public class Main {
         }
         System.out.println();
 
-        System.out.println(" ДЗ 1 Задание 3");
+        System.out.println(" ДЗ № 1 Задание 3");
         System.out.println( );
 
         int y = 12_000_000;
@@ -41,7 +41,7 @@ public class Main {
             System.out.println("Год " + period1 + " численность населения составляет " + (y + growthPerYear));
         }
         System.out.println( );
-        System.out.println("  ДЗ 2 Задание 4  ");
+        System.out.println("  ДЗ № 2 Задание 4  ");
         int sum = 15_000;
         int total1 = 0;
         int a = 0;
@@ -51,7 +51,7 @@ public class Main {
 
         }
         System.out.println( );
-        System.out.println(" ДЗ 2 Задание 5");
+        System.out.println(" ДЗ № 2 Задание 5");
         int total2 = 0;
         int a1 = 0;
 
@@ -65,7 +65,7 @@ public class Main {
 
         }
         System.out.println( );
-        System.out.println(" ДЗ 2 Задание 6");
+        System.out.println(" ДЗ № 2 Задание 6");
         int year = 9;
 
         int total3 = 0;
@@ -81,7 +81,7 @@ public class Main {
         System.out.println( );
 
 
-        System.out.println(" ДЗ 2 Задание 7");
+        System.out.println(" ДЗ № 2 Задание 7");
         for (int dayNumber = 5; dayNumber <= 31; dayNumber++) {
             if (dayNumber % 7 == 0) {
                 System.out.println(" Сегодня пятница," + dayNumber + "-е число. Необходимо подготовить отчет ");
@@ -93,13 +93,13 @@ public class Main {
         System.out.println( );
 
 
-        System.out.println(" ДЗ 3 Задание 9 ");
+        System.out.println(" ДЗ № 3 Задание 9 ");
         for (int b = 1; b <= 10; b++) {
             System.out.println(" 2 * " + b + " = " + 2 * b);
         }
         System.out.println( );
 
-        System.out.println(" ДЗ 3 Задание 8 ");
+        System.out.println(" ДЗ № 3 Задание 8 ");
         int year1 = 0;
         while ( year1 <=2122){
             year1 = year1 + 79;
